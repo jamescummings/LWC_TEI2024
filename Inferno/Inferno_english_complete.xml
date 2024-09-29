@@ -4005,7 +4005,7 @@
 	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214319727",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:43:19.727Z",
-	"dcterms:modified": "2024-09-29T20:43:19.727Z",
+	"dcterms:modified": "2024-09-29T21:07:47.112Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
